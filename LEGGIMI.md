@@ -1,20 +1,20 @@
 # Pharmaguida nuova direzione ottobre 2026
 
-Apri `index.html` per navigare tra pagina aziendale, campagna bundle e brand book. Il sito di prova riprende il template Medilazar online: testata bianca, logo attuale, font del tema, ricerca, menu, accenti turchesi, schede prodotto e footer. Carousel, filtri e ricerca funzionano in locale. I pulsanti di aggiunta restano nelle schede con riscontro visivo. Il carrello dimostrativo e la simulazione ordini sono stati eliminati su richiesta. Le dieci pagine bundle-B01.html fino a bundle-B10.html mostrano i dettagli dei kit. La proposta non è pubblicata su pharmaguida.com, come richiesto alla consegna.
+Apri `index.html` per navigare tra pagina aziendale, campagna bundle e brand book. Il sito di prova riprende il template Medilazar online: testata bianca, logo attuale, font del tema, ricerca, menu, accenti turchesi, schede prodotto e footer. Carousel, filtri e ricerca funzionano in locale. I pulsanti di aggiunta restano nelle schede con riscontro visivo. Il carrello dimostrativo e la simulazione ordini sono stati eliminati su richiesta. Le otto pagine bundle B01–B07 e B09 mostrano i dettagli dei kit. La proposta non è pubblicata su pharmaguida.com, come richiesto alla consegna.
 
 ## Contenuto della consegna
 
 - `azienda.html`: nuova pagina aziendale responsive con famiglia nuova, ricerca, formule, storia, team e contatti.
-- `bundle.html`: dieci bundle, descrizioni estese, prezzi e download.
-- `prodotti.html`: dieci promesse di prodotto riscritte con composizioni e benefici attribuiti agli ingredienti corretti.
+- `bundle.html`: otto bundle, descrizioni estese, prezzi e download.
+- `prodotti.html`: nove promesse di prodotto riscritte con composizioni e benefici attribuiti agli ingredienti corretti.
 - `carousel.html`: simulazione navigabile del carousel, con composizione dedicata al mobile.
 - `brand.html`: posizionamento, palette, tipografia, fotografia, voce e regole d’uso del logo.
-- `banners/B01.png` fino a `B10.png`: dieci fascioni da **1810 × 550 px**, stessa dimensione delle immagini del carousel pubblico. Anche in WebP.
-- `mobile/B01.png` fino a `B10.png`: dieci varianti da **750 × 1000 px**, anche in WebP.
+- `banners/`: otto fascioni B01–B07 e B09 da **1810 × 550 px**, stessa dimensione delle immagini del carousel pubblico. Anche in WebP.
+- `mobile/`: otto varianti B01–B07 e B09 da **750 × 1000 px**, anche in WebP.
 - `Pharmaguida_Brand_Positioning_LOGO_UFFICIALE_2026-10-21.pptx` e `.pdf`: presentazione di 16 slide, con testi modificabili nel PowerPoint e immagini incorporate.
 - `Pharmaguida_Testi_SEO_e_Bundle.docx`: copy aziendale, testi lunghi, promesse di prodotto, SEO e fonti.
 - `MIA_PRIMISSIMA_MAIL_REVISIONATA.docx`: mail revisionata e integrata con call e reel. Il file originale in PHARMAGUIDA_SUPER_BRIEFING è stato aggiornato; la versione precedente è conservata accanto con suffisso PRIMA_REVISIONE_2026-10-20.
-- `Prezzi_verificati.csv`: confronto economico dei dieci kit.
+- `Prezzi_verificati.csv`: confronto economico degli otto kit.
 - `azienda-schema.json`: proposta di aggiornamento del grafo Yoast, da integrare nel grafo esistente.
 - `assets/`: scene lifestyle e ritratti revisionati, fotografie originali di prodotto, logo originale e proposta di logo SVG. Le versioni precedenti sono conservate.
 - `character-set.html`: galleria dei dieci personaggi Pharmaguida, ciascuno in tre inquadrature.
@@ -28,7 +28,7 @@ Apri `index.html` per navigare tra pagina aziendale, campagna bundle e brand boo
 
 Il prezzo barrato è la **somma dei singoli prezzi online del 20 ottobre 2026**, non un precedente prezzo del bundle. Percentuale e risparmio in euro hanno la medesima base. I prezzi dei kit seguono la colonna consigliata nell’Excel v2 2 e sono proposte commerciali. Spedizione esclusa. Nessun kit è presentato con spedizione gratuita: anche 59,90 € resta sotto la soglia attuale di 60 €.
 
-Xnari risulta esaurito nel catalogo pubblico acquisito. B01, B02, B05, B08 e B10 sono quindi proposte da attivare al riassortimento. Gli altri kit hanno componenti disponibili alla data della verifica.
+Il prodotto escluso è stato rimosso dai kit. B08 e B10 sono stati ritirati perché sarebbero rimasti con un solo prodotto; gli otto kit conservati hanno almeno due componenti.
 
 ## Leggibilità e ritratto di Nicola
 
